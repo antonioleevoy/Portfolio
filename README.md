@@ -1,7 +1,6 @@
-Portfolio
-## Preview
+## Portfolio Preview
 
-![Alt text](https://github.com/antonioleevoy/Portfolio/blob/master/imgages/Portfolio.png)
+![Alt text](https://github.com/antonioleevoy/Portfolio/blob/master/imgages/Portfolio.PNG)
 
 **[View Live Preview](https://antonioleevoy.github.io/Portfolio/.)**
 
